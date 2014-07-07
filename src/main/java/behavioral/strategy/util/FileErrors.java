@@ -1,4 +1,6 @@
-package behavioral.strategy;
+package behavioral.strategy.util;
+
+import behavioral.strategy.util.*;
 
 import java.io.*;
 
